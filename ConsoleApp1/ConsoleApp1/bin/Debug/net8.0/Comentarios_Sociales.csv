@@ -1,0 +1,7 @@
+IdComentario,IdFuente,IdCliente,TextoComentario,FechaComentario,Reacciones
+1,1,1,Me encanta comprar en Jumbo,3/5/2024,15
+2,2,2,El arroz siempre está en oferta,3/6/2024,22
+3,1,3,La leche subió de precio,3/7/2024,10
+4,4,4,El aceite está más caro este mes,4/3/2024,18
+5,,5,El queso blanco se vende rápido,,25
+6,5,5,El queso blanco se vende rápido,4/13/2024,26

@@ -1,0 +1,396 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1F61AD-761F-48C9-AB25-28C83F30E3E3}|Business\\Business.csproj|c:\\users\\hidek\\source\\repos\\consoleapp1\\business\\etlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1F61AD-761F-48C9-AB25-28C83F30E3E3}|Business\\Business.csproj|solutionrelative:business\\etlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8A513-B807-4CCE-BF49-A59071B757E3}|Entities\\Entities.csproj|c:\\users\\hidek\\source\\repos\\consoleapp1\\entities\\resenhaweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8A513-B807-4CCE-BF49-A59071B757E3}|Entities\\Entities.csproj|solutionrelative:entities\\resenhaweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8A513-B807-4CCE-BF49-A59071B757E3}|Entities\\Entities.csproj|c:\\users\\hidek\\source\\repos\\consoleapp1\\entities\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8A513-B807-4CCE-BF49-A59071B757E3}|Entities\\Entities.csproj|solutionrelative:entities\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD691A6-55E3-46B3-8BBE-6452EC6A617B}|ConsoleApp1\\Presentation.csproj|c:\\users\\hidek\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD691A6-55E3-46B3-8BBE-6452EC6A617B}|ConsoleApp1\\Presentation.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4EBF-BD38-4106-AA01-8276CD596DE2}|Data\\Data.csproj|c:\\users\\hidek\\source\\repos\\consoleapp1\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0D4EBF-BD38-4106-AA01-8276CD596DE2}|Data\\Data.csproj|solutionrelative:data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4EBF-BD38-4106-AA01-8276CD596DE2}|Data\\Data.csproj|c:\\users\\hidek\\source\\repos\\consoleapp1\\data\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0D4EBF-BD38-4106-AA01-8276CD596DE2}|Data\\Data.csproj|solutionrelative:data\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4EBF-BD38-4106-AA01-8276CD596DE2}|Data\\Data.csproj|c:\\users\\hidek\\source\\repos\\consoleapp1\\data\\comentariosocialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0D4EBF-BD38-4106-AA01-8276CD596DE2}|Data\\Data.csproj|solutionrelative:data\\comentariosocialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4EBF-BD38-4106-AA01-8276CD596DE2}|Data\\Data.csproj|c:\\users\\hidek\\source\\repos\\consoleapp1\\data\\opinionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0D4EBF-BD38-4106-AA01-8276CD596DE2}|Data\\Data.csproj|solutionrelative:data\\opinionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4EBF-BD38-4106-AA01-8276CD596DE2}|Data\\Data.csproj|c:\\users\\hidek\\source\\repos\\consoleapp1\\data\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0D4EBF-BD38-4106-AA01-8276CD596DE2}|Data\\Data.csproj|solutionrelative:data\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8A513-B807-4CCE-BF49-A59071B757E3}|Entities\\Entities.csproj|c:\\users\\hidek\\source\\repos\\consoleapp1\\entities\\opinion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8A513-B807-4CCE-BF49-A59071B757E3}|Entities\\Entities.csproj|solutionrelative:entities\\opinion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8A513-B807-4CCE-BF49-A59071B757E3}|Entities\\Entities.csproj|c:\\users\\hidek\\source\\repos\\consoleapp1\\entities\\encuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8A513-B807-4CCE-BF49-A59071B757E3}|Entities\\Entities.csproj|solutionrelative:entities\\encuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8A513-B807-4CCE-BF49-A59071B757E3}|Entities\\Entities.csproj|c:\\users\\hidek\\source\\repos\\consoleapp1\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8A513-B807-4CCE-BF49-A59071B757E3}|Entities\\Entities.csproj|solutionrelative:entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8A513-B807-4CCE-BF49-A59071B757E3}|Entities\\Entities.csproj|c:\\users\\hidek\\source\\repos\\consoleapp1\\entities\\fuentedato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8A513-B807-4CCE-BF49-A59071B757E3}|Entities\\Entities.csproj|solutionrelative:entities\\fuentedato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8A513-B807-4CCE-BF49-A59071B757E3}|Entities\\Entities.csproj|c:\\users\\hidek\\source\\repos\\consoleapp1\\entities\\comentariosocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8A513-B807-4CCE-BF49-A59071B757E3}|Entities\\Entities.csproj|solutionrelative:entities\\comentariosocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8A513-B807-4CCE-BF49-A59071B757E3}|Entities\\Entities.csproj|c:\\users\\hidek\\source\\repos\\consoleapp1\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE8A513-B807-4CCE-BF49-A59071B757E3}|Entities\\Entities.csproj|solutionrelative:entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4EBF-BD38-4106-AA01-8276CD596DE2}|Data\\Data.csproj|c:\\users\\hidek\\source\\repos\\consoleapp1\\data\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0D4EBF-BD38-4106-AA01-8276CD596DE2}|Data\\Data.csproj|solutionrelative:data\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4EBF-BD38-4106-AA01-8276CD596DE2}|Data\\Data.csproj|c:\\users\\hidek\\source\\repos\\consoleapp1\\data\\encuestarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0D4EBF-BD38-4106-AA01-8276CD596DE2}|Data\\Data.csproj|solutionrelative:data\\encuestarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4EBF-BD38-4106-AA01-8276CD596DE2}|Data\\Data.csproj|c:\\users\\hidek\\source\\repos\\consoleapp1\\data\\fuentedatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0D4EBF-BD38-4106-AA01-8276CD596DE2}|Data\\Data.csproj|solutionrelative:data\\fuentedatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4EBF-BD38-4106-AA01-8276CD596DE2}|Data\\Data.csproj|c:\\users\\hidek\\source\\repos\\consoleapp1\\data\\resenhaweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0D4EBF-BD38-4106-AA01-8276CD596DE2}|Data\\Data.csproj|solutionrelative:data\\resenhaweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE8A513-B807-4CCE-BF49-A59071B757E3}|Entities\\Entities.csproj|c:\\users\\hidek\\source\\repos\\consoleapp1\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6DE8A513-B807-4CCE-BF49-A59071B757E3}|Entities\\Entities.csproj|solutionrelative:entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1F61AD-761F-48C9-AB25-28C83F30E3E3}|Business\\Business.csproj|c:\\users\\hidek\\source\\repos\\consoleapp1\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A1F61AD-761F-48C9-AB25-28C83F30E3E3}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4EBF-BD38-4106-AA01-8276CD596DE2}|Data\\Data.csproj|c:\\users\\hidek\\source\\repos\\consoleapp1\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C0D4EBF-BD38-4106-AA01-8276CD596DE2}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EtlService.cs",
+              "DocumentMoniker": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Business\\EtlService.cs",
+              "RelativeDocumentMoniker": "Business\\EtlService.cs",
+              "ToolTip": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Business\\EtlService.cs",
+              "RelativeToolTip": "Business\\EtlService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:41:31.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ComentarioSocialRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Data\\ComentarioSocialRepository.cs",
+              "RelativeDocumentMoniker": "Data\\ComentarioSocialRepository.cs",
+              "ToolTip": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Data\\ComentarioSocialRepository.cs",
+              "RelativeToolTip": "Data\\ComentarioSocialRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:40:27.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:24:11.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DbContext.cs",
+              "ToolTip": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Data\\DbContext.cs",
+              "RelativeToolTip": "Data\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:36:10.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Encuesta.cs",
+              "DocumentMoniker": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Entities\\Encuesta.cs",
+              "RelativeDocumentMoniker": "Entities\\Encuesta.cs",
+              "ToolTip": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Entities\\Encuesta.cs",
+              "RelativeToolTip": "Entities\\Encuesta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:39:51.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Entities\\Venta.cs",
+              "RelativeDocumentMoniker": "Entities\\Venta.cs",
+              "ToolTip": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Entities\\Venta.cs",
+              "RelativeToolTip": "Entities\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T01:42:11.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResenhaWeb.cs",
+              "DocumentMoniker": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Entities\\ResenhaWeb.cs",
+              "RelativeDocumentMoniker": "Entities\\ResenhaWeb.cs",
+              "ToolTip": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Entities\\ResenhaWeb.cs",
+              "RelativeToolTip": "Entities\\ResenhaWeb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:35:44.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "Entities\\Producto.cs",
+              "ToolTip": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Entities\\Producto.cs",
+              "RelativeToolTip": "Entities\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:34:24.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FuenteDato.cs",
+              "DocumentMoniker": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Entities\\FuenteDato.cs",
+              "RelativeDocumentMoniker": "Entities\\FuenteDato.cs",
+              "ToolTip": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Entities\\FuenteDato.cs",
+              "RelativeToolTip": "Entities\\FuenteDato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:34:47.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Data\\VentaRepository.cs",
+              "RelativeDocumentMoniker": "Data\\VentaRepository.cs",
+              "ToolTip": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Data\\VentaRepository.cs",
+              "RelativeToolTip": "Data\\VentaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T01:44:03.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Opinion.cs",
+              "DocumentMoniker": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Entities\\Opinion.cs",
+              "RelativeDocumentMoniker": "Entities\\Opinion.cs",
+              "ToolTip": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Entities\\Opinion.cs",
+              "RelativeToolTip": "Entities\\Opinion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T01:42:56.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OpinionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Data\\OpinionRepository.cs",
+              "RelativeDocumentMoniker": "Data\\OpinionRepository.cs",
+              "ToolTip": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Data\\OpinionRepository.cs",
+              "RelativeToolTip": "Data\\OpinionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T01:44:27.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ComentarioSocial.cs",
+              "DocumentMoniker": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Entities\\ComentarioSocial.cs",
+              "RelativeDocumentMoniker": "Entities\\ComentarioSocial.cs",
+              "ToolTip": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Entities\\ComentarioSocial.cs",
+              "RelativeToolTip": "Entities\\ComentarioSocial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:35:26.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Data\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "Data\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Data\\ProductoRepository.cs",
+              "RelativeToolTip": "Data\\ProductoRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:38:08.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Entities\\Cliente.cs",
+              "RelativeToolTip": "Entities\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:33:52.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Data\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Data\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Data\\ClienteRepository.cs",
+              "RelativeToolTip": "Data\\ClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:37:10.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EncuestaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Data\\EncuestaRepository.cs",
+              "RelativeDocumentMoniker": "Data\\EncuestaRepository.cs",
+              "ToolTip": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Data\\EncuestaRepository.cs",
+              "RelativeToolTip": "Data\\EncuestaRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBIAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:39:20.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FuenteDatoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Data\\FuenteDatoRepository.cs",
+              "RelativeDocumentMoniker": "Data\\FuenteDatoRepository.cs",
+              "ToolTip": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Data\\FuenteDatoRepository.cs",
+              "RelativeToolTip": "Data\\FuenteDatoRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:38:48.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ResenhaWeb.cs",
+              "DocumentMoniker": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Data\\ResenhaWeb.cs",
+              "RelativeDocumentMoniker": "Data\\ResenhaWeb.cs",
+              "ToolTip": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Data\\ResenhaWeb.cs",
+              "RelativeToolTip": "Data\\ResenhaWeb.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBIAAACgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:40:54.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Entities.csproj",
+              "DocumentMoniker": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Entities\\Entities.csproj",
+              "RelativeDocumentMoniker": "Entities\\Entities.csproj",
+              "ToolTip": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Entities\\Entities.csproj",
+              "RelativeToolTip": "Entities\\Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-24T23:24:21.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Business.csproj",
+              "DocumentMoniker": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Business\\Business.csproj",
+              "RelativeDocumentMoniker": "Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Business\\Business.csproj",
+              "RelativeToolTip": "Business\\Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-24T21:43:09.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\hidek\\source\\repos\\ConsoleApp1\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-24T21:37:32.587Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+IdResenha,IdFuente,IdProducto,Calificacion,Comentario,FechaResenha
+1,3,1,5,"Excelente arroz, siempre rinde bastante",3/8/2024
+2,3,2,4,La leche es buena pero debería estar más barata,3/9/2024
+3,3,3,3,El detergente limpia bien pero no me gusta el olor,3/10/2024
+4,3,4,5,El aceite vegetal es de muy buena calidad,4/4/2024
+4,3,4,5,,4/4/2024
+5,3,5,4,El queso blanco está delicioso,4/11/2024

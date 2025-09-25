@@ -1,0 +1,8 @@
+IdCliente,Nombre,Apellido,Correo,Telefono,FechaRegistro
+1,Juan,Perez,juan.perez@email.com,8095551111,1/15/2024
+2,Ana,Gomez,ana.gomez@email.com,8295552222,2/10/2024
+3,Carlos,Ramirez,carlos.ramirez@email.com,8495553333,3/5/2024
+4,Maria,Lopez,maria.lopez@email.com,8095554444,4/1/2024
+5,Luis,Martinez,luis.martinez@email.com,8295555555,4/12/2024
+6,Marcos,,,,
+4,Maria,Lopez,maria.lopez@email.com,8095554444,4/1/2024

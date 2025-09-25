@@ -1,0 +1,7 @@
+IdOpinion,IdCliente,IdProducto,Calificacion,Comentario,FechaOpinion
+1,1,2,5,"Muy buena leche, siempre fresca",3/16/2024
+2,2,1,4,"El arroz es de buena calidad, aunque caro",3/21/2024
+3,3,3,3,El detergente limpia bien pero huele fuerte,3/23/2024
+4,4,4,5,El aceite es excelente para freír,4/6/2024
+5,5,5,4,El queso es muy sabroso,4/11/2024
+,4,4,5,,

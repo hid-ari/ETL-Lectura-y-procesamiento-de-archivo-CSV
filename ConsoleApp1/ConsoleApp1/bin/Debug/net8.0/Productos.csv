@@ -1,0 +1,7 @@
+IdProducto,NombreProducto,Descripcion,Categoria,Precio
+1,Arroz Premium,Arroz de grano largo de alta calidad,Alimentos,125.5
+2,Leche Entera,Leche líquida pasteurizada,Lácteos,65.75
+3,Detergente Azul,Detergente en polvo para ropa,Limpieza,230
+4,Aceite Vegetal,Aceite de soya refinado,,150.25
+4,Aceite Vegetal,Aceite de soya refinado,Alimentos,150.25
+5,Queso Blanco,Queso fresco artesanal,Lácteos,300
